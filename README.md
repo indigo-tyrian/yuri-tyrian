@@ -1,8 +1,8 @@
 ### 自己紹介
 
-- 👋 こんにちは、 @yuri-tyrianです。
-- 👀 プログラミング、数学、科学、歴史などなど、色んなことに興味があります。
-- 🌱 今はpythonを学習しています。
+- 👋 hello world! I'm @yuri-tyrian
+- 👀 I'm currently interested in history!
+- 🌱 I'm currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
